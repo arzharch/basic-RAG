@@ -72,6 +72,7 @@ Retrieval-Augmented Generation (RAG) is an approach that combines retrieval mode
 
 4. **Interactive UI (Gradio)**:
    - The project includes an interactive interface using Gradio, allowing users to input their queries and receive answers based on the retrieval-augmented generation process.
+![Uploading image.png…]()
 
 ---
 
